@@ -1,0 +1,3 @@
+{{ if index .Params 0 | eq "blogurl" }}{{ .Site.Params.blogurl }}
+{{ else if index .Params 0 | eq "blogdomain" }}{{ .Site.Params.blogdomain }}
+{{ end }}
