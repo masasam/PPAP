@@ -1,7 +1,6 @@
 +++
-date = "2017-03-16T14:38:11+09:00"
+date = "2017-11-16T17:39:56+09:00"
 title = "pineapple"
-draft = false
 tags = ["pineapple"]
 categories = ["mylife"]
 
