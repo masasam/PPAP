@@ -1,10 +1,8 @@
 +++
-date = "2017-11-16T17:39:56+09:00"
-title = "pineapple"
-tags = ["pineapple"]
-categories = ["mylife"]
-
+categories = [""]
+tags = [""]
+title = "Pineapple"
+date = "2017-11-20T23:41:12+09:00"
+draft = false
 +++
-
-### I have a pineapple
-
+I have a pineapple

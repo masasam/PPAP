@@ -1,6 +1,6 @@
 hasCJKLanguage = true
 theme="material-design"
-baseurl = "https://example.com"
+baseurl = "http://example.com"
 languageCode = "ja"
 title = "PPAP blog"
 MetaDataFormat = "toml"
@@ -8,7 +8,7 @@ paginate = 9 # To specify a multiple of 3
 copyright = "©2017 PPAP blog powered by Hugo"
 
 [params]
-  blogurl = "https://example.com"
+  blogurl = "http://example.com"
   blogdomain = "example.com"
   github = "masasam"
   twitter = "masasamsama"
