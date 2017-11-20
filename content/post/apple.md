@@ -8,4 +8,3 @@ draft = false
 +++
 
 ### I have an apple
-
