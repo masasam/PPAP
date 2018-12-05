@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "easy-hugo"
+    "easy-hugo-test": "easy-hugo-test"
   }
 }

@@ -1,6 +1,6 @@
 hasCJKLanguage = true
 theme="material-design"
-baseurl = "https://easy-hugo.firebaseapp.com"
+baseurl = "https://easy-hugo-test.firebaseapp.com"
 languageCode = "ja"
 title = "PPAP blog"
 MetaDataFormat = "toml"
@@ -8,8 +8,8 @@ paginate = 9 # To specify a multiple of 3
 copyright = "©2017 PPAP blog powered by Hugo"
 
 [params]
-  blogurl = "https://easy-hugo.firebaseapp.com"
-  blogdomain = "easy-hugo.firebaseapp.com"
+  blogurl = "https://easy-hugo-test.firebaseapp.com"
+  blogdomain = "easy-hugo-test.firebaseapp.com"
   github = "masasam"
   twitter = "masasamsama"
   # headerCover = "images/headerCover.jpg"
